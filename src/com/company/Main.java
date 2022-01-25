@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Algo");
         System.out.println("Prueba1");
         System.out.println("Prueba 2");
+
     }
 }
